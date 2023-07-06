@@ -8,6 +8,7 @@ public class program2 {
 		int a  = 12;
 		int b = 4;
 		
+		System.out.println("This is Program2");
 		System.out.println("Substraction of " + a +" and " + b + " is " + (a-b));
 				
 	}
