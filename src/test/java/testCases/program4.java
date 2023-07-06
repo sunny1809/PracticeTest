@@ -8,6 +8,7 @@ public class program4 {
 		int a  = 12;
 		int b = 4;
 		
+		System.out.println("This is Program4");
 		System.out.println("Division of " + a +" and " + b + " is " + (a/b));
 				
 	}
