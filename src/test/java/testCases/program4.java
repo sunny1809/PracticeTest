@@ -9,6 +9,7 @@ public class program4 {
 		int b = 4;
 		
 		System.out.println("This is Program4");
+		System.out.println("New change");
 		System.out.println("Division of " + a +" and " + b + " is " + (a/b));
 				
 	}
